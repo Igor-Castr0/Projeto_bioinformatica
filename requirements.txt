@@ -1,0 +1,3 @@
+Flask==2.3.2
+vcfpy==0.12.0  # Ou outra versão mais recente
+pysam==0.21.0  # Se o pysam está causando problemas, considere usar uma versão diferente ou removê-lo temporariamente
